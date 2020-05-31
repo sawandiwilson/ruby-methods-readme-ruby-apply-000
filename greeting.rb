@@ -23,3 +23,5 @@ def a_real_method
   puts phrase
 end
 
+say_a_real_method
+
